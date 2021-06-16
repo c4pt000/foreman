@@ -1,4 +1,4 @@
-![Foreman](https://raw.githubusercontent.com/theforeman/foreman-graphics/master/logo/foreman_medium.png)
+ ![Foreman](https://raw.githubusercontent.com/theforeman/foreman-graphics/master/logo/foreman_medium.png)
 
 [![Build Status](https://ci.theforeman.org/buildStatus/icon?job=foreman-develop-source-release)](https://ci.theforeman.org/job/test_foreman-develop-source-release/)
 [![Code Climate](https://codeclimate.com/github/theforeman/foreman/badges/gpa.svg)](https://codeclimate.com/github/theforeman/foreman)
